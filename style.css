@@ -1,0 +1,24 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+.main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+h1 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+#scroll {
+  margin-left: 110px;
+  height: 300px;
+  width: 80%;
+  border: 2px solid gray;
+  background-color: lightblue;
+  margin: 50px;
+}
+.abc {
+  margin: auto;
+  justify-content: center;
+  align-self: center;
+}
